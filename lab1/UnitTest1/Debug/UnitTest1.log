@@ -1,6 +1,0 @@
-﻿  unittest1.cpp
-c:\users\hacki\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\line.cpp(44): warning C4101: i: неиспользованная локальная переменная
-c:\users\hacki\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\line.cpp(51): warning C4101: i: неиспользованная локальная переменная
-     ╤ючфрхЄё  сшсышюЄхър C:\Users\Hacki\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\UnitTest1.lib ш юс·хъЄ C:\Users\Hacki\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\UnitTest1.exp
-  UnitTest1.vcxproj -> C:\Users\Hacki\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\UnitTest1.dll
-  UnitTest1.vcxproj -> C:\Users\Hacki\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\UnitTest1.pdb (Partial PDB)
